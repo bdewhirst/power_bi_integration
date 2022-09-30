@@ -11,3 +11,6 @@ After here, steps are in PBI unless otherwise noted
 9. optionally, indicate whether or not to aggregate
 10. build a visual (may need to aggregate values with max or min to disagregate)
 11. save, publish, or whatever
+
+12. ran into issues installing scikit-learn (tried to cancel installing wrong version, messed up poetry)
+    (resolved by creating alternate conda environment)
