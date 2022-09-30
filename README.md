@@ -12,10 +12,14 @@ After here, steps are in PBI unless otherwise noted
 10. build a visual (may need to aggregate values with max or min to disagregate)
 11. save, publish, or whatever
 
-12. ran into issues installing scikit-learn (tried to cancel installing wrong version, messed up poetry)
+12. (in PyCharm) ran into issues installing scikit-learn (tried to cancel installing wrong version, messed up poetry)
     (resolved by creating alternate conda environment)
 
+
+
 ref: https://www.datacamp.com/tutorial/running-python-scripts-in-power-bi-tutorial
+
+(note that the reference goes into how you coerce PBI into showing each row as intended... PBI workflows kind of aren't great)
 
 from ref:
 PowerBI supports:
