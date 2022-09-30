@@ -1,0 +1,4 @@
+# the following were explicitly installed-- conda list has a more exhaustive list with versions
+pandas
+scikit-learn
+matplotlib

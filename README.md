@@ -14,3 +14,17 @@ After here, steps are in PBI unless otherwise noted
 
 12. ran into issues installing scikit-learn (tried to cancel installing wrong version, messed up poetry)
     (resolved by creating alternate conda environment)
+
+ref: https://www.datacamp.com/tutorial/running-python-scripts-in-power-bi-tutorial
+
+from ref:
+PowerBI supports:
+
+* Matplotlib (in requirements.txt)
+* NumPy (installed implicitly as dependency of packages in requirements.txt)
+* Pandas (in requirements.txt)
+* Scikit-learn
+* Scipy  (installed implicitly as dependency of packages in requirements.txt)
+* Seaborn (not yet installed)
+* Statsmodels (not yet installed)
+* XGBoost (not yet installed)
